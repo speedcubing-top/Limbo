@@ -1,0 +1,11 @@
+name: limbo
+main: top.speedcubing.limbo.Limbo
+version: 1.0
+commands:
+  hub:
+    usage: /hub
+    aliases:
+      - l
+      - lobby
+depend:
+  - speedcubingLib
